@@ -1,4 +1,4 @@
-class Student 
+class Student
 class Student < User
 
   attr_accessor :knowledge
@@ -14,3 +14,6 @@ class Student < User
   def knowledge
     @knowledge
   end
+
+end
+end 
